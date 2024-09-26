@@ -2,9 +2,13 @@
 
 <div>
 <a href="https://github.com/luis-kmd">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-kmd&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=calm"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-kmd&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-kmd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+<img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40"/> <img loading="lazy" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/>
+
+
 
 
 # Contact:
